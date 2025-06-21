@@ -1,0 +1,83 @@
+﻿@model IEnumerable<DailyActivities_Web.Models.DailyActivity>
+
+@{
+    ViewData["Title"] = "Daily Activities";
+
+    // Calculate Totals
+    var totalExpense = Model.Sum(x => x.Expense);
+    var totalBadWork = Model.Count(x => x.BadWork);
+    var totalSalat = Model.Sum(x => x.Salat);
+    var totalQuran = Model.Count(x => x.Quran);
+    var totalRamadan = Model.Count(x => x.Ramadan);
+}
+
+<h2 class="mb-4">Daily Activities</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">
+        <i class="bi bi-plus-circle"></i> Add New Activity
+    </a>
+    <a asp-action="ExportToExcel" class="btn btn-success">
+        <i class="bi bi-file-earmark-spreadsheet"></i> Export to Excel
+    </a>
+    <a asp-action="Clear" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete all your records?');">
+        <i class="bi bi-trash"></i> Clear Records
+    </a>
+    <button class="btn btn-secondary" onclick="window.print()">
+        <i class="bi bi-printer"></i> Print
+    </button>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead class="table-light">
+            <tr>
+                <th>Date</th>
+                <th>Get Up Time</th>
+                <th>Sleep Time</th>
+                <th>Expense <i class="bi bi-cash-coin"></i></th>
+                <th>Bad Work <i class="bi bi-exclamation-circle"></i></th>
+                <th>Salat <i class="bi bi-alarm"></i></th>
+                <th>Quran <i class="bi bi-book"></i></th>
+                @* <th>Ramadan</th> *@
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Date.ToShortDateString()</td>
+                    <td>@(item.GetUpTime.HasValue ? DateTime.Today.Add(item.GetUpTime.Value).ToString("hh:mm tt") : "N/A")</td>
+                    <td>@(item.SleepTime.HasValue ? DateTime.Today.Add(item.SleepTime.Value).ToString("hh:mm tt") : "N/A")</td>
+                    <td>@item.Expense</td>
+                    <td>@(item.BadWork ? "Yes" : "No")</td>
+                    <td>@item.Salat</td>
+                    <td>@(item.Quran ? "Yes" : "No")</td>
+                    @* <td>@(item.Ramadan ? "Yes" : "No")</td> *@
+                    <td>
+                        <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                            <i class="bi bi-pencil"></i> Edit
+                        </a>
+                        <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+            <tr class="table-info">
+                <td colspan="3" class="fw-bold">Totals</td>
+                <td class="fw-bold">@totalExpense</td>
+                <td class="fw-bold">@totalBadWork</td>
+                <td class="fw-bold">@totalSalat</td>
+                <td class="fw-bold">@totalQuran</td>
+                <td class="fw-bold">@totalRamadan</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

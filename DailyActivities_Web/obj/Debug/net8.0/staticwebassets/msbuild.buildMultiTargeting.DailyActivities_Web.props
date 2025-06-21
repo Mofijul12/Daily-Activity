@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DailyActivities_Web.props" />
+</Project>

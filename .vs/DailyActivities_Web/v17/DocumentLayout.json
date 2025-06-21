@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\dailyactivities_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\dailyactivities_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\models\\dailyactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\models\\dailyactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\dailyactivities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\dailyactivities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\dailyactivities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\dailyactivities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\views\\dailyactivities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\views\\dailyactivities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\controllers\\dailyactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\controllers\\dailyactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|c:\\users\\homepc\\desktop\\dailyactivities_web - final\\dailyactivities_web\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EBB1A1-9E71-40EE-ABBE-CBB96BDAC8F2}|DailyActivities_Web\\DailyActivities_Web.csproj|solutionrelative:dailyactivities_web\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\appsettings.json",
+              "RelativeToolTip": "DailyActivities_Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T06:59:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:31:57.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:25:52.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv2UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:17:52.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:16:11.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DailyActivities_Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-11T11:15:28.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DailyActivities_Web.csproj",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\DailyActivities_Web.csproj",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\DailyActivities_Web.csproj",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\DailyActivities_Web.csproj",
+              "RelativeToolTip": "DailyActivities_Web\\DailyActivities_Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T11:14:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:50:19.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:50:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:49:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Program.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Program.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:22:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T09:11:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\DailyActivities\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Edit.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\DailyActivities\\Edit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T09:40:26.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:21:48.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Index.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\DailyActivities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Index.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\DailyActivities\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T09:15:14.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Create.cshtml",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Views\\DailyActivities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Views\\DailyActivities\\Create.cshtml",
+              "RelativeToolTip": "DailyActivities_Web\\Views\\DailyActivities\\Create.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T09:07:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DailyActivity.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Models\\DailyActivity.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Models\\DailyActivity.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Models\\DailyActivity.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Models\\DailyActivity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:05:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DailyActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\DailyActivitiesController.cs",
+              "RelativeDocumentMoniker": "DailyActivities_Web\\Controllers\\DailyActivitiesController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Desktop\\DailyActivities_Web - Final\\DailyActivities_Web\\Controllers\\DailyActivitiesController.cs",
+              "RelativeToolTip": "DailyActivities_Web\\Controllers\\DailyActivitiesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwJUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:02:19.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

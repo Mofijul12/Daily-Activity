@@ -1,0 +1,86 @@
+﻿@model DailyActivities_Web.Models.DailyActivity
+
+@{
+    ViewData["Title"] = "Create Daily Activity";
+}
+
+<h2 class="mb-4">Create Daily Activity</h2>
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Create" class="needs-validation" novalidate>
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Date" class="form-label">
+                    <i class="bi bi-calendar"></i> Date
+                </label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="GetUpTime" class="form-label">
+                    <i class="bi bi-clock"></i> Get Up Time
+                </label>
+                <input asp-for="GetUpTime" type="time" class="form-control" />
+                <span asp-validation-for="GetUpTime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="SleepTime" class="form-label">
+                    <i class="bi bi-clock"></i> Sleep Time
+                </label>
+                <input asp-for="SleepTime" type="time" class="form-control" />
+                <span asp-validation-for="SleepTime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Expense" class="form-label">
+                    <i class="bi bi-cash-coin"></i> Expense
+                </label>
+                <input asp-for="Expense" class="form-control" />
+                <span asp-validation-for="Expense" class="text-danger"></span>
+            </div>
+
+            <div class="form-check mb-3">
+                <input asp-for="BadWork" class="form-check-input" />
+                <label asp-for="BadWork" class="form-check-label" style="color:orangered">
+                    <i class="bi bi-exclamation-circle"></i> Bad Work
+                </label>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Salat" class="form-label">
+                    <i class="bi bi-alarm"></i> Salat
+                </label>
+                <input asp-for="Salat" class="form-control" style="background-color:forestgreen;color:white" />
+                <span asp-validation-for="Salat" class="text-danger"></span>
+            </div>
+
+            <div class="form-check mb-3">
+                <input asp-for="Quran" class="form-check-input" />
+                <label asp-for="Quran" class="form-check-label">
+                    <i class="bi bi-book"></i> Quran
+                </label>
+            </div>
+
+            @* <div class="form-check mb-3">
+                <input asp-for="Ramadan" class="form-check-input" />
+                <label asp-for="Ramadan" class="form-check-label"></label>
+            </div> *@
+
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-save"></i> Save
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left"></i> Cancel
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

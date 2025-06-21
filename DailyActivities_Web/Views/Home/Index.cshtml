@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 mb-4 animate__animated animate__fadeInDown">Welcome to Your Daily Activities</h1>
+
+    <div class="row mt-5 justify-content-center">
+        <div class="col-md-3 mb-4 animate__animated animate__zoomIn animate__delay-1s">
+            <div class="card shadow">
+                <img src="https://img.freepik.com/free-photo/lady-wake-up-stretch-oneself-lazily-fresh-morning_1150-6974.jpg?t=st=1746917980~exp=1746921580~hmac=0813249e49125c1fa5aff200e8ffa9d5d41031c7ddcf47407494ef6d398e99c7&w=1380" class="card-img-top" alt="Wake Up">
+                <div class="card-body">
+                    <h5 class="card-title">Wake Up</h5>
+                    <p class="card-text">Start your day with energy.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4 animate__animated animate__zoomIn animate__delay-2s">
+            <div class="card shadow">
+                <img src="https://img.freepik.com/premium-psd/fitnes-weights-with-headphones-water-bottle_23-2148293179.jpg?w=1380" class="card-img-top" alt="Exercise">
+                <div class="card-body">
+                    <h5 class="card-title">Exercise</h5>
+                    <p class="card-text">Keep fit and healthy throughout the day.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4 animate__animated animate__zoomIn animate__delay-3s">
+            <div class="card shadow">
+                <img src="https://img.freepik.com/premium-psd/workspace-with-computer_53876-600118.jpg?w=1380" class="card-img-top" alt="Work">
+                <div class="card-body">
+                    <h5 class="card-title">Work</h5>
+                    <p class="card-text">Stay productive during your work hours.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-4 animate__animated animate__zoomIn animate__delay-4s">
+            <div class="card shadow">
+                <img src="https://img.freepik.com/free-photo/peaceful-sleep-moon_23-2151936763.jpg?t=st=1746918207~exp=1746921807~hmac=c5a305a6eb5a9276d26d84ac9c4d12842d811eefc805d40153e60e2b748dd82c&w=1380" class="card-img-top" alt="Sleep">
+                <div class="card-body">
+                    <h5 class="card-title">Sleep</h5>
+                    <p class="card-text">Get a good rest to recharge for the next day.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    @{
+        if (!User.Identity.IsAuthenticated)
+        {
+            <div class="mt-4">
+                <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-primary">Login</a>
+            </div>
+        }
+    }
+</div>

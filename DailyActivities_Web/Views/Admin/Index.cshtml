@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DailyActivities_Web.Models.DailyActivity>
+@{
+    ViewData["Title"] = "All User Activities";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Date</th>
+            <th>Get Up Time</th>
+            <th>Sleep Time</th>
+            <th>Expense</th>
+            <th>Bad Work</th>
+            <th>Salat</th>
+            <th>Quran</th>
+            <th>Ramadan</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var activity in Model)
+        {
+            <tr>
+                <td>@activity.User.UserName</td>
+                <td>@activity.Date.ToString("yyyy-MM-dd")</td>
+                <td>@activity.GetUpTime</td>
+                <td>@activity.SleepTime</td>
+                <td>@activity.Expense</td>
+                <td>@(activity.BadWork ? "Yes" : "No")</td>
+                <td>@activity.Salat</td>
+                <td>@(activity.Quran ? "Yes" : "No")</td>
+                <td>@(activity.Ramadan ? "Yes" : "No")</td>
+                <td>
+                    <a href="@Url.Action("UserActivities", "Admin", new { userId = activity.UserId })">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
